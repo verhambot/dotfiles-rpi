@@ -1,2 +1,2 @@
-# dotfiles-rpi
+# RPi
 My dotfiles for RPi
